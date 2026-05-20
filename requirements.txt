@@ -1,0 +1,8 @@
+streamlit>=1.30
+pandas>=2.0
+plotly>=6.0
+openpyxl>=3.0
+reportlab>=3.0
+numpy>=2.0
+python-dateutil>=2.8
+kaleido>=1.3
